@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/anuj-patni-0b4b6415a/?lipi=urn%3ali%3apage%3ap_mwlite_my_network%3bxismn7rvssslj2gv3pic7a%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anuj-patni-0b4b6415a/?lipi=urn%3ali%3apage%3ap_mwlite_my_network%3bxismn7rvssslj2gv3pic7a%3d%3d" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/https://www.linkedin.com/in/anuj-patni-0b4b6415a/?lipi=urn%3ali%3apage%3ap_mwlite_my_network%3bxismn7rvssslj2gv3pic7a%3d%3d"](https://www.linkedin.com/in/anuj-patni-0b4b6415a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anuj-patni-0b4b6415a/?lipi=urn%3ali%3apage%3ap_mwlite_my_network%3bxismn7rvssslj2gv3pic7a%3d%3d" height="30" width="40" /></a>
 <a href="https://instagram.com/anujpatni02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anujpatni02" height="30" width="40" /></a>
 </p>
 
