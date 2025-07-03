@@ -5,9 +5,10 @@
 <h1 align="center">Hi 👋, I'm Anuj Patni</h1>
 <h3 align="center">Power BI Developer | Transitioned from HR to Data Analytics | Skilled in Power BI, SQL, Excel & DAX</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=apatni0212&label=Profile%20views&color=0e75b6&style=flat" alt="apatni0212" />
+<<p align="center">
+  <img src="https://raw.githubusercontent.com/apatni0212/apatni0212/main/Besttt.gif" alt="Animated GitHub Banner" width="100%" />
 </p>
+
 
 ---
 
