@@ -11,9 +11,8 @@
 
 ---
 
-- 🌱 Currently exploring advanced Power BI features for building enterprise-ready dashboards  
-- 👨‍💻 All projects are available at: [My GitHub Repositories](https://github.com/apatni0212?tab=repositories)  
-- 💬 Ask me about: **Power BI | SQL | Excel | DAX | Data Visualization**  
+- 🌱 - Currently mastering advanced Power BI features to build scalable, business-ready dashboards that solve real-world problems and support data-driven decision-making.
+
 - 📫 Reach me at: **anujpatni1995@hmail.com**
 
 ---
