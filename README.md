@@ -3,7 +3,7 @@
 <h3 align="center">🎯 Passionate Power BI Developer from India | Transitioned from HR to Data Analytics | Skilled in Power BI, SQL, Excel & DAX</h3
 
 <p align="center">
-  [<img src="https://www.navsoft.ai/wp-content/uploads/2022/10/about-us-hero-banner.jpg" alt="GitHub Banner" width="100%" />](https://github.com/apatni0212/apatni0212/blob/main/Banner.jpg)
+  <img src="https://raw.githubusercontent.com/apatni0212/apatni0212/main/Bannerr.jpg" alt="GitHub Banner" width="100%" />
 </p>
 
 
