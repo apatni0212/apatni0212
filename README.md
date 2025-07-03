@@ -2,7 +2,10 @@
 <h1 align="center">Hi 👋, I'm Anuj Patni</h1>
 <h3 align="center">🎯 Passionate Power BI Developer from India | Transitioned from HR to Data Analytics | Skilled in Power BI, SQL, Excel & DAX</h3
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=apatni0212&label=Profile%20views&color=0e75b6&style=flat" alt="apatni0212" /> </p>
+<p align="center">
+  <img src="https://www.navsoft.ai/wp-content/uploads/2022/10/about-us-hero-banner.jpg" alt="GitHub Banner" width="100%" />
+</p>
+
 
 - 🌱 I’m currently learning **I'm currently learning advanced Power BI features to build more scalable and enterprise-ready dashboards.**
 
@@ -12,7 +15,7 @@
 
 - 📫 How to reach me **anujpatni1995@hmail.com**
 
-- ⚡ Fun fact **Iam Funny**
+- ⚡ Fun fact **Enthusiastic about creating insightful dashboards that drive data-driven decisions**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
