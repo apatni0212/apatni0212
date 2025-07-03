@@ -1,10 +1,10 @@
 
-<h1 align="center">Hi 👋, I'm Anuj Patni</h1>
-<h3 align="center">🎯 Passionate Power BI Developer from India | Transitioned from HR to Data Analytics | Skilled in Power BI, SQL, Excel & DAX</h3
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/apatni0212/apatni0212/main/Bannerr.jpg" alt="GitHub Banner" width="100%" />
 </p>
+
+<h1 align="center">Hi 👋, I'm Anuj Patni</h1>
+<h3 align="center">🎯 Passionate Power BI Developer from India | Transitioned from HR to Data Analytics | Skilled in Power BI, SQL, Excel & DAX</h3
 
 
 - 🌱 I’m currently learning **I'm currently learning advanced Power BI features to build more scalable and enterprise-ready dashboards.**
